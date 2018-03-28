@@ -1,0 +1,20 @@
+nav{
+	display: none;
+	}
+header{
+	display: none;
+	}
+body{
+	background-color: #ffffff;
+    border-style: none;
+	}
+#wrapper{
+	background-color: #ffffff;
+	font-family: Arial, Geneva, snas-serif;
+    font-size: .70 em;
+	color: rgb(25, 25, 112);
+    color: #000000;
+	}
+figure{
+    display: none;
+    }
