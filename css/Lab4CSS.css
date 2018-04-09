@@ -99,3 +99,22 @@ a:hover{
 a:active{
     color: #000000;
     }
+tr:nth-of-type(2){
+    background: rgba(25, 25, 112, 0.2);
+    }
+table{
+    padding: 5px;
+    border: inset rgb(25, 25, 172);
+    }
+th{
+    padding: 5px;
+    border: inset rgb(25, 25, 172);
+    }
+tr{
+    padding: 5px;
+    border: inset rgb(25, 25, 172);
+    }
+td{
+    padding: 5px;
+    border: inset rgb(25, 25, 172);
+    }
