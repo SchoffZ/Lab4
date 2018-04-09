@@ -18,3 +18,19 @@ body{
 figure{
     display: none;
     }
+table{
+    border: none;
+    background-color: #FFFFFF;
+    }
+th{
+    border: none;
+    background-color: #FFFFFF;
+    }
+tr{
+    border: none;
+    background-color: #FFFFFF;
+    }
+td{
+    border: none;
+    background-color: #FFFFFF;
+    }
